@@ -3,7 +3,7 @@
 </div>
 
 
- <img src="https://imgur.com/a/cZgBk3W">
+ <img src="[https://imgur.com/a/cZgBk3W](https://imgur.com/bwLfxbZ)"> https://imgur.com/bwLfxbZ
 
 <!--
 **RafitaFuenla/RafitaFuenla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
