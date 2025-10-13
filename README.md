@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 </p>
 
 
-<img src="./bannerLenguajes.png">
+<img src="./bannerLenguaje.png">
