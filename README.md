@@ -1,8 +1,9 @@
 <div align="center">
 <h1 align="center"> Hola, soy Rafita, futuro Developer 👋</h1>
 </div>
- 
- <img src="https://i.imgur.com/Wskj8cn.jpeg">
+
+
+ <img src="https://imgur.com/4PwKZPF">
 
 <!--
 **RafitaFuenla/RafitaFuenla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
