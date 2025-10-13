@@ -8,6 +8,17 @@
 
 <p>Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en proceso de reconversión profesional hacia el desarrollo web y móvil. Apasionado por la programación, la automatización y las soluciones tecnológicas prácticas. En este perfil encontrarás proyectos académicos, ejercicios de aprendizaje y herramientas que reflejan mi evolución como futuro desarrollador multiplataforma. </p>
 
+<div align="center"></div>
+      <p align="center">Lenguajes utilizados y en proceso de aprendizaje</p>
+      <img src="https://iconscout.com/es/free-icon/java-60_1174953" alt="Java" width="60px" height="60px">
+       <img src="https://iconscout.com/es/free-icon/javascript-24_1174950" alt="JS" width="60px" height="60px">
+        <img src="https://iconscout.com/es/free-icon/css3-11_1175239" alt="CSS" width="60px" height="60px">
+         <img src="https://iconscout.com/es/free-icon/html5-40_1175193" alt="HTML" width="60px" height="60px">
+          <img src="https://iconscout.com/es/free-icon/java-60_1174953" alt="Java" width="60px" height="60px">
+           <img src="https://iconscout.com/es/free-icon/java-60_1174953" alt="Java" width="60px" height="60px">
+            <img src="https://iconscout.com/es/free-icon/java-60_1174953" alt="Java" width="60px" height="60px">
+
+
 <!--
 **RafitaFuenla/RafitaFuenla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
