@@ -2,6 +2,7 @@
 <h1 align="center"> Hola, soy Rafita, futuro Developer 👋</h1>
 </div>
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/bwLfxbZ" data-context="false" ><a href="//imgur.com/a/bwLfxbZ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
  <img src="[https://imgur.com/a/cZgBk3W](https://imgur.com/bwLfxbZ)"> https://imgur.com/bwLfxbZ
 
