@@ -8,6 +8,8 @@
 
 <p>Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en proceso de reconversión profesional hacia el desarrollo web y móvil. Apasionado por la programación, la automatización y las soluciones tecnológicas prácticas. En este perfil encontrarás proyectos académicos, ejercicios de aprendizaje y herramientas que reflejan mi evolución como futuro desarrollador multiplataforma. </p>
 
+
+https://iconscout.com/es/3d-icon/lenguaje-de-programacion-12143890_9890891
 <div align="center"></div>
       <p align="center">Lenguajes utilizados y en proceso de aprendizaje</p>
       <img src="https://iconscout.com/es/free-icon/java-60_1174953" alt="Java" width="60px" height="60px">
@@ -16,7 +18,12 @@
          <img src="https://iconscout.com/es/free-icon/html5-40_1175193" alt="HTML" width="60px" height="60px">
           <img src="https://iconscout.com/es/free-icon/java-60_1174953" alt="Java" width="60px" height="60px">
            <img src="https://iconscout.com/es/free-icon/java-60_1174953" alt="Java" width="60px" height="60px">
-            <img src="https://iconscout.com/es/free-icon/java-60_1174953" alt="Java" width="60px" height="60px">
+           <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/c9e3c925-82f0-4843-9c2c-dc1470b2b96a" />
+
+            <img src="[https://iconscout.com/es/free-icon/java-60_1174953](https://iconscout.com/es/3d-icon/lenguaje-de-programacion-12143890_9890891)" alt="Java" width="60px" height="60px">
+
+            <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0cdb0d1c-b12c-4d18-b5c7-baa4a144e0d6" />
+
 
 
 <!--
