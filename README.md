@@ -2,9 +2,7 @@
 <h1 align="center"> Hola, soy Rafita, futuro Developer 👋</h1>
 </div>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/bwLfxbZ" data-context="false" ><a href="//imgur.com/a/bwLfxbZ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
- <img src="href="//imgur.com/a/bwLfxbZ">
+<img src="https://imgur.com/gallery/gitbanner-cZgBk3W#bwLfxbZ">
 
 <!--
 **RafitaFuenla/RafitaFuenla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
