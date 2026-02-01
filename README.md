@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <p align="center">⚙️ &nbsp;GitHub Analytics ⚙️ </p>
 
 <p align="center">
-<a href="https://github.com/RagitaFuenla">
+<a href="https://github.com/RafitaFuenla">
   <img height="900px" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RafitaFuenla&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="900px" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RafitaFuenla&layout=compact&langs_count=8&theme=algolia"/>
 </a>
